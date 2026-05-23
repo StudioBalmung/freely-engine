@@ -58,6 +58,7 @@ CMakeLists.txt
 *.log
 *.bak
 *.swp
+*.frl
 
 # vcpkg
 vcpkg_installed/
@@ -68,6 +69,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+*.asset
+*.meta
 
 # C / C++
 *.cpp
@@ -83,7 +86,5 @@ Testing/
 *.lua
 *.rs
 *.zig
-
-
 
 
