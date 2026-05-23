@@ -67,3 +67,22 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# C / C++
+*.cpp
+*.hpp
+*.cs
+*.c
+
+# Python
+*.py
+*.pyc
+
+# Other
+*.lua
+*.rs
+*.zig
+
+
+
+
