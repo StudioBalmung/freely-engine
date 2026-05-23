@@ -1,6 +1,6 @@
 # Freely Engine
 
-A custom C++ 3D Game Engine built with OpenGL 4.5.
+A custom C++ 3D Game Engine.
 
 ## Features
 
