@@ -2,7 +2,7 @@
 
 A custom C++ 3D Game Engine.
 
-[!screen](Screenshot%20(1).png)
+![Screenshot](Screenshot%20(1).png)
 
 ## Features
 
