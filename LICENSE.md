@@ -4,7 +4,7 @@
 
 This is a source-available end-user license. It is **not** an OSI-approved
 open-source license. By installing, copying, accessing, or using Freely
-Engine ("the Software") in any form — binary, source, or compiled — you
+Engine ("the Software") in any form - binary, source, or compiled - you
 agree to be bound by the terms below. If you do not agree, do not use the
 Software.
 
