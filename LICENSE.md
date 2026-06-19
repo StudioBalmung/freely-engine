@@ -58,7 +58,7 @@ the Licensor unless otherwise required under Section 6.
 
 ---
 
-## 3. Restrictions — Source Code and Core Modification
+## 3. Restrictions - Source Code and Core Modification
 
 **3.1 No Unauthorized Modification.** You may **not** Modify the Source Code
 or compiled binaries of the Software's engine core, editor, runtime, or
