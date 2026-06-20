@@ -87,4 +87,4 @@ Testing/
 *.rs
 *.zig
 
-
+*.md
