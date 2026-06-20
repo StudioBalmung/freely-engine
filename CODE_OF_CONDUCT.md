@@ -10,7 +10,7 @@ The current [freely-engine-master](file:///c:/Users/BEST/Desktop/freely-engine-m
 | **Renderer** | OpenGL 4.5 with PBR, Framebuffer, Shader | [Renderer.h](file:///c:/Users/BEST/Desktop/freely-engine-master/Engine/include/Freely/Renderer/Renderer.h) |
 | **RHI** | Abstract `IRenderDevice` + OpenGL/Vulkan/D3D12 stubs | [IRenderDevice.h](file:///c:/Users/BEST/Desktop/freely-engine-master/Engine/include/Freely/RHI/IRenderDevice.h) |
 | **Scene** | Camera, Mesh (primitives + OBJ), Material, Light | [Camera.h](file:///c:/Users/BEST/Desktop/freely-engine-master/Engine/include/Freely/Scene/Camera.h), [Mesh.h](file:///c:/Users/BEST/Desktop/freely-engine-master/Engine/include/Freely/Scene/Mesh.h) |
-| **Physics** | AsterCore backend (3D), Jolt/PhysX/Box2D stubs | [IPhysicsBackend.h](file:///c:/Users/BEST/Desktop/freely-engine-master/Engine/include/Freely/Physics/IPhysicsBackend.h) |
+| **Physics** | AsterCore backend (3D), Jolt/PhysX/Box2D | [IPhysicsBackend.h](file:///c:/Users/BEST/Desktop/freely-engine-master/Engine/include/Freely/Physics/IPhysicsBackend.h) |
 | **Plugin** | DLL load/unload, `IPlugin` interface | [PluginManager.h](file:///c:/Users/BEST/Desktop/freely-engine-master/Engine/include/Freely/Plugin/PluginManager.h) |
 | **Config** | INI-style load/save with all subsystem configs | [EngineConfig.h](file:///c:/Users/BEST/Desktop/freely-engine-master/Engine/include/Freely/Config/EngineConfig.h) |
 | **Editor** | ImGui docking, viewport, hierarchy, properties, gizmos | [EditorApp.cpp](file:///c:/Users/BEST/Desktop/freely-engine-master/Editor/src/EditorApp.cpp) |
