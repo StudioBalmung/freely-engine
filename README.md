@@ -1,5 +1,8 @@
 # Freely Engine
 
+[![License: MIT](https://img.shields.io/badge/License-FPL-purple.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0.2-4D266E)](https://github.com/StudioBalmung/freely-engine/releases)
+
 A C++ 3D Game Engine.
 
 ![Screenshot](Screenshot%20(1).png)
