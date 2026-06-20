@@ -143,5 +143,5 @@ int main() {
 ```
 
 ## License
-
-MIT
+FPL for Freely (c) Neofilisoft / Studio Balmung.
+MIT for third-party library.
