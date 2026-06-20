@@ -1,6 +1,6 @@
 # Freely Engine
 
-A custom C++ 3D Game Engine.
+A C++ 3D Game Engine.
 
 ![Screenshot](Screenshot%20(1).png)
 
