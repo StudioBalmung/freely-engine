@@ -12,7 +12,7 @@ A C++ 3D Game Engine.
 - **OpenGL 4.5 Core Profile** with DSA (Direct State Access)
 - **PBR Rendering** (Cook-Torrance BRDF with GGX distribution)
 - **ImGui/ImGuizmo Editor** - Dockable GUI, 3D viewport with grid and gizmos
-- **AsterCore Physics** - Rigid body dynamics, collision detection (Sphere/Box/Plane)
+- **Physics** - Rigid body dynamics, collision detection (Sphere/Box/Plane)
 - **Modular Architecture** - Core, Renderer, Scene, Physics, Editor modules
 - **Camera System** - Perspective/Orthographic with orbit/pan editor controls
 - **Mesh Primitives** - Cube, Sphere, Plane + OBJ file loading
@@ -115,7 +115,7 @@ make -j$(nproc)
 |--------|---------|-------------|
 | `FREELY_BUILD_EXAMPLES` | ON | Build example applications |
 | `FREELY_BUILD_EDITOR` | ON | Build the Freely Editor |
-| `FREELY_USE_VULKAN` | OFF | Enable Vulkan backend (WIP) |
+| `FREELY_USE_VULKAN` | ON | Enable Vulkan backend |
 
 ## Extending
 
