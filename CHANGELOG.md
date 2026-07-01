@@ -1,7 +1,7 @@
 FREELY ENGINE 0.4.2 - CHANGELOG
 ================================
 
-Version bump from 0.2.0 to 0.4.2, with build-compatibility and one
+Version 0.4.2, with build-compatibility and one
 rendering-quality fix applied. These fixes were found and applied while
 cross-compiling a real game (Darkness Rising) against this engine with
 mingw-w64 to a native Windows x86_64 executable using the engine's
