@@ -49,9 +49,6 @@ FIXES
 
 ------------
 
-Note: the previously distributed folder was named "freely 0.2.0" but
-its internal CMake project version was actually 2.0.0 - this appears to
-be a pre-existing naming inconsistency between the release folder name
-and the internal version string. This release resolves that by setting
-every internal version reference to 0.4.2, matching the intended
+Note: 
+This release resolves that by setting every internal version reference to 0.4.2, matching the intended
 release name going forward.
