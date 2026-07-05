@@ -1,7 +1,7 @@
 # Freely Engine
 
 [![License: FPL](https://img.shields.io/badge/License-FPL-scarlet.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.4.0-B10C1A)](https://github.com/StudioBalmung/freely-engine/releases)
+[![Version](https://img.shields.io/badge/version-0.4.4-B10C1A)](https://github.com/StudioBalmung/freely-engine/releases)
 
 A C++ 3D Game Engine.
 
