@@ -1,4 +1,4 @@
-// Freely Engine 0.4.2 — Standalone Runtime
+// Freely Engine - Standalone Runtime
 // Loads and runs a compiled project without the editor.
 
 #include <Freely/Freely.h>
@@ -11,7 +11,7 @@
 
 namespace fs = std::filesystem;
 
-// ─── Runtime application ─────────────────────────────────────────────────────
+// Runtime application 
 class RuntimeApp : public Freely::Engine {
 public:
     explicit RuntimeApp(const std::string& projectPath)
@@ -72,7 +72,7 @@ private:
     std::string m_ProjectPath;
 };
 
-// ─── Entry point ─────────────────────────────────────────────────────────────
+//  Entry point 
 int main(int argc, char** argv) {
     std::string projectPath = ".";
     if (argc > 1) projectPath = argv[1];
