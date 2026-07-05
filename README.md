@@ -3,7 +3,7 @@
 [![License: FPL](https://img.shields.io/badge/License-FPL-scarlet.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-0.4.4-B10C1A)](https://github.com/StudioBalmung/freely-engine/releases)
 
-A custom C++20 game engine with both a 3D pipeline
+A Custom C++20 game engine with both a 3D pipeline
 and a dedicated 2D renderer.
 
 ## Features
