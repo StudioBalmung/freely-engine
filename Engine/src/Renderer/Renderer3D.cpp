@@ -633,7 +633,7 @@ void Renderer3D::Submit(std::shared_ptr<Mesh> mesh, std::shared_ptr<Material> ma
     glm::vec3 cp(s_State.Camera.Position);
     dc.DistanceSq  = glm::dot(pos - cp, pos - cp);
     // Transparent if material alpha < 1 (basic heuristic)
-    dc.IsTransparent = false; // TODO[Renderer3D]: Implement material blend‑mode handling to set IsTransparent based on material alpha or blend flags
+    dc.IsTransparent = false; // TODO[Renderer3D]: Implement material blend-mode handling to set IsTransparent based on material alpha or blend flags
 
     if (dc.IsTransparent)
         s_State.TransparentQueue.push_back(dc);
