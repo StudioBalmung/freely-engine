@@ -5,7 +5,6 @@
 
 A C++ 3D Game Engine.
 
-![Screenshot](Screenshot%20(1).png)
 
 ## Features
 
