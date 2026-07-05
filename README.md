@@ -242,6 +242,6 @@ complete working example of that approach.
 
 ## License
 
-FPLv (Freely Public License) 
+FPL (Freely Public License) 
 
 2026 (c) Neofilisoft / Studio Balmung.
