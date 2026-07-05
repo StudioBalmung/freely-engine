@@ -1,4 +1,4 @@
-# Freely 2.0.0 - Full Game Engine Implementation Plan
+# Freely 0.4.0 - Full Game Engine Implementation Plan
 
 ## Existing Codebase Summary
 
