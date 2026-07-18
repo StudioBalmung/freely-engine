@@ -73,10 +73,7 @@ Testing/
 *.meta
 
 # C / C++
-*.cpp
-*.hpp
 *.cs
-*.c
 
 # Python
 *.py
@@ -86,4 +83,3 @@ Testing/
 *.lua
 *.rs
 *.zig
-*.md
